@@ -1,0 +1,4 @@
+eduman
+======
+
+Education Management System
